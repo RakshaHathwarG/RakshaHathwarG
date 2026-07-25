@@ -19,11 +19,7 @@ I'm an Information Science Engineering student passionate about **Artificial Int
 
 # 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raksha.78374@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha-hathwar-g-158609324)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RakshaHathwarG)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raksha.78374@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha-hathwar-g-158609324)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RakshaHathwarG)
 
 ---
 
@@ -97,22 +93,6 @@ A customized **CrewAI multi-agent application** powered by **Google Gemini 2.5 F
 - Discussion Points
 - Expected Questions & Answers
 - Strategic Recommendations
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=RakshaHathwarG&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RakshaHathwarG&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RakshaHathwarG&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-# 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=RakshaHathwarG&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
